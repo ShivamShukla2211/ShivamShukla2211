@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShivamShukla2211
+- 👋 Hi, I’m Shivam Shukla.
 - 👀 I’m interested in jobs related to Data analysis
 - 🌱 I’m currently learning MySQL, Python, Power BI, and Tableau. 
 - 💞️ I’m looking to collaborate on data handling.
